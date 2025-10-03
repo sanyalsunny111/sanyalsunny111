@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sunny 👋
 
-<!--
-**sanyalsunny111/sanyalsunny111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm a final year PhD student at **UT Austin**, advised by Prof. Sujay Sanghavi.  
+- 🤖 My research focuses on **efficient training recipes for Large Models** (pre-training, fine-tuning, and continual learning).    
+- 📫 Reach me at: [Homepage](https://sites.google.com/view/sunnysanyal/home) · [Twitter/X](https://x.com/SunnySanyal9)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyalsunny111&show_icons=true&theme=default)
+
+
+---
+
+## 🚀 Selected Open-Source Contributions
+
+- [LLM-Inheritune](https://github.com/sanyalsunny111/LLM-Inheritune) 
+- [LAWA (Latest Weight Averaging for Pre-training Language Models)](https://github.com/sanyalsunny111/Early_Weight_Avg)
+- [FLOW (Upweighting Easy Samples in Fine-tuning Mitigates Forgeting)](https://github.com/sanyalsunny111/FLOW_finetuning)
+ 
+
+---
+
