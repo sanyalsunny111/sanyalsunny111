@@ -15,6 +15,7 @@
 
 ## 🚀 Selected Open-Source Contributions
 
+- [Looped-GPT](https://github.com/sanyalsunny111/Looped-GPT) (Blog + Codebase)
 - [LLM-Inheritune](https://github.com/sanyalsunny111/LLM-Inheritune) 
 - [LAWA (Latest Weight Averaging for Pre-training Language Models)](https://github.com/sanyalsunny111/Early_Weight_Avg)
 - [FLOW (Upweighting Easy Samples in Fine-tuning Mitigates Forgeting)](https://github.com/sanyalsunny111/FLOW_finetuning)
